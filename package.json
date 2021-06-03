@@ -1,0 +1,24 @@
+{
+  "name": "nsfw-bot",
+  "version": "1.0.0",
+  "description": "Bot pour se la durcir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nsfw",
+    "nsfw-bot",
+    "bot",
+    "discordbot",
+    "nsfw-bot-discord"
+  ],
+  "author": "Sayrix",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "fs": "0.0.1-security",
+    "os": "^0.1.1",
+    "superagent": "^6.1.0"
+  }
+}
